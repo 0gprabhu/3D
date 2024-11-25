@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\3DProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|c:\\users\\asus\\3dproject\\assets\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|c:\\users\\asus\\3dproject\\assets\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "segment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3DProject\\Assets\\segment.cs",
+              "RelativeDocumentMoniker": "Assets\\segment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3DProject\\Assets\\segment.cs",
+              "RelativeToolTip": "Assets\\segment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:10:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "movement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3DProject\\Assets\\movement.cs",
+              "RelativeDocumentMoniker": "Assets\\movement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3DProject\\Assets\\movement.cs",
+              "RelativeToolTip": "Assets\\movement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:51:06.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
